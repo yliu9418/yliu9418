@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yliu9418
+- 👋 Hi, I’m Henry, a Ph.D. Stduent. 
 - 👀 I’m interested in Natural Language Processing (NLP), Machine Learning (ML), and Quanytum Computing
 - 🌱 I’m currently learning QML and QNLP. 
 - 💞️ I’m looking to collaborate on Pandemic Surveillance on Social Media ...
