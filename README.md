@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Pandemic Surveillance on Social Media and QML and quantum information education ...
 - 📫 How to reach me: yliu9418@gmail.com
 
-#<img width="736" alt="Resume" src="https://github.com/yliu9418/yliu9418/blob/02798e83436f45ae668ad951bbb3ff501dca399a/Resume_YL_22.pdf">
 ![Resume](https://github.com/yliu9418/yliu9418/blob/02798e83436f45ae668ad951bbb3ff501dca399a/Resume_YL_22.pdf)
+
 <!---
 yliu9418/yliu9418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
