@@ -5,7 +5,7 @@
 - 📫 How to reach me: yliu9418@gmail.com
 
 
-# ![Resume](https://github.com/yliu9418/yliu9418/blob/cd3c0d8f48360bebca63cfd84d254c8d74877724/Resume_YL.jpeg)
+# ![Resume] (https://github.com/yliu9418/yliu9418/blob/cd3c0d8f48360bebca63cfd84d254c8d74877724/Resume_YL.jpeg)
 
 
 <!---
